@@ -31,3 +31,4 @@ def monisen(no):
 
 
 print(monisen(int(input())))
+# success
